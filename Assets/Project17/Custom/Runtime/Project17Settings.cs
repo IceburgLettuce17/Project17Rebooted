@@ -2,6 +2,13 @@
 {
 	public class Project17Settings
 	{
-		// TODO: Finish once I make the wrapper
+		// Application
+		
+		public static RuntimePlatform platform;
+		
+		enum PersistentDataPathType
+		{
+			
+		}
 	}
 }
